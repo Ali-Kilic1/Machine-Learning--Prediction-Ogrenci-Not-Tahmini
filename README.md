@@ -10,5 +10,5 @@ Kullandığım algoritmalar;
   
   🔸Random Forest
   
-  Kullandığım hata ayıklama yöntemi:R2_score
+  Kullandığım hata ayıklama yöntemi: R2_score
 
